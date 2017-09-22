@@ -1,0 +1,1 @@
+genkernel initramfs --disklabel --busybox --splash=natural_gentoo
